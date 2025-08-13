@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;From+Beautiful+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+Learning+%26+Creating+%E2%9C%A8;Call+me+Green+%F0%9F%8C%B1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;From+Beautiful+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+Learning+%26+Creating+%E2%9C%A8;Call+me+Green+%F0%9F%8C%B1)
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nimeshdilhara96&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/nimeshdilhara96)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nimeshdilhara8?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/nimeshdilhara8)
