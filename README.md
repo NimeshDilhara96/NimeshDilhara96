@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;From+Beautiful+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+Learning+%26+Creating+%E2%9C%A8;Call+me+Green+%F0%9F%8C%B1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A7;Full+Stack+Developer+%F0%9F%9A%80;From+Beautiful+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+Learning+%26+Creating+%E2%9C%A8;Call+me+Green+%F0%9F%8C%B1)
+
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nimeshdilhara96&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/nimeshdilhara96)
