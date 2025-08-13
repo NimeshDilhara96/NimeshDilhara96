@@ -18,7 +18,7 @@ const nimesh = {
     name: "Nimesh Dilhara",
     nickname: "Green 🌱",
     location: "Sri Lanka 🇱🇰",
-    role: "Frontend Developer",
+    role: "Frontend Developer & Backend Developer",
     currentFocus: "NextGenSport Club Management System",
     learning: ["Java", "Advanced Web Technologies"],
     passion: "Creating beautiful, functional web experiences",
