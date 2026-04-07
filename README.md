@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Nimesh Dilhara**
+# 👋 Hey there! I'm **Nimesh Dilhara Kulasooriya**
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ```javascript
 const nimesh = {
-    name: "Nimesh Dilhara",
+    name: "Nimesh Dilhara Kulasooriya",
     nickname: "Green 🌱",
     location: "Sri Lanka 🇱🇰",
     role: "Frontend Developer & Backend Developer",
