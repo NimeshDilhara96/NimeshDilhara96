@@ -42,7 +42,7 @@ const nimesh = {
 ## 🛠️ **Tech Arsenal**
  
 <div align="center">
-<sub>🌱 A constantly evolving toolkit</sub>
+
  
 <br/>
 ### 🎨 Frontend Magic
@@ -157,7 +157,7 @@ const nimesh = {
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-<br>
+<br/>
 
 ---
 
