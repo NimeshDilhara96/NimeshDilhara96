@@ -41,7 +41,7 @@ const nimesh = {
 
 ## 🛠️ **Tech Arsenal**
  
-<div align="center">
+
 
  
 <br/>
