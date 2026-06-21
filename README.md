@@ -41,10 +41,11 @@ const nimesh = {
 
 ## 🛠️ **Tech Arsenal**
  
-
+<div align="center">
 
  
 <br/>
+
 ### 🎨 Frontend Magic
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -93,6 +94,7 @@ const nimesh = {
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
 </div>
+
 ---
  
 ## 📊 **GitHub Analytics**
@@ -157,6 +159,7 @@ const nimesh = {
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
 <br/>
 
 ---
